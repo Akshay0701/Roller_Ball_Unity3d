@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 6c3fe97f7c7cf7840845cfee747751ac
+labels:
+- audio
+- clockstone
+- toolkit
+- framework
+- scripts
+- pooling
+- singleton
+- pool
+- sound
+- free
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

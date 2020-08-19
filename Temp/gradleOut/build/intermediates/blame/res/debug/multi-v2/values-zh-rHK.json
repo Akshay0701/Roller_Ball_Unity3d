@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\project\\Roller_Ball\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\com.android.support.support-compat-26.1.0.aar\\989c6231bfc3bd58eeba6d869b2991df\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "101",
+                        "endOffsets": "152"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "750",
+                        "endColumns": "101",
+                        "endOffsets": "847"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\com.google.android.gms.play-services-ads-15.0.1.aar\\4cf1b022e692c19e1407535d87218239\\res\\values-zh-rHK\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "201,262,335,395,455,519,589",
+                        "endColumns": "60,72,59,59,63,69,61",
+                        "endOffsets": "261,334,394,454,518,588,650"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "272,337,414,478,542,610,684",
+                        "endColumns": "64,76,63,63,67,73,65",
+                        "endOffsets": "332,409,473,537,605,679,745"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\com.google.android.gms.play-services-basement-15.0.1.aar\\95c0f28960784384a3b81a6db0a40d2d\\res\\values-zh-rHK\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "166",
+                        "endOffsets": "417"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "166",
+                        "endOffsets": "267"
+                    }
+                }
+            ]
+        }
+    ]
+}

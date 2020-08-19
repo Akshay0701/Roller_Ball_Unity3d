@@ -1,0 +1,26 @@
+<aars>
+  <explodeData>
+    <aar>android.arch.core.common-1.0.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.ajcompany.Roller_Ball</bundleId>
+    <path>Assets/Plugins/Android/android.arch.core.common-1.0.0.jar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>android.arch.lifecycle.common-1.0.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.ajcompany.Roller_Ball</bundleId>
+    <path>Assets/Plugins/Android/android.arch.lifecycle.common-1.0.0.jar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+</aars>

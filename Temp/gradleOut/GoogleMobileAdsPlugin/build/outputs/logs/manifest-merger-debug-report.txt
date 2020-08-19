@@ -1,0 +1,35 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:7:1-15:12
+INJECTED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:7:1-15:12
+INJECTED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:7:1-15:12
+INJECTED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:7:1-15:12
+INJECTED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:7:1-15:12
+INJECTED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:7:1-15:12
+INJECTED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:7:1-15:12
+	package
+		ADDED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:8:5-35
+		INJECTED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml
+		INJECTED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:9:5-30
+		INJECTED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml
+		INJECTED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:7:11-69
+	android:versionCode
+		ADDED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:10:5-28
+		INJECTED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml
+		INJECTED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml
+uses-sdk
+ADDED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:11:3-12:39
+INJECTED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:11:3-12:39
+INJECTED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:11:3-12:39
+	android:targetSdkVersion
+		ADDED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:12:7-36
+		INJECTED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml
+		INJECTED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:11:13-39
+application
+ADDED from D:\project\Roller_Ball\Temp\gradleOut\GoogleMobileAdsPlugin\AndroidManifest.xml:13:3-14:17

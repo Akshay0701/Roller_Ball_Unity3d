@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\project\\Roller_Ball\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\com.google.android.gms.play-services-ads-15.0.1.aar\\4cf1b022e692c19e1407535d87218239\\res\\values-zh-rTW\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "201,262,337,397,457,521,592",
+                        "endColumns": "60,74,59,59,63,70,61",
+                        "endOffsets": "261,336,396,456,520,591,653"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "267,332,411,475,539,607,682",
+                        "endColumns": "64,78,63,63,67,74,65",
+                        "endOffsets": "327,406,470,534,602,677,743"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\com.google.android.gms.play-services-basement-15.0.1.aar\\95c0f28960784384a3b81a6db0a40d2d\\res\\values-zh-rTW\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "161",
+                        "endOffsets": "412"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "161",
+                        "endOffsets": "262"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\com.android.support.support-compat-26.1.0.aar\\989c6231bfc3bd58eeba6d869b2991df\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "748",
+                        "endColumns": "100",
+                        "endOffsets": "844"
+                    }
+                }
+            ]
+        }
+    ]
+}
