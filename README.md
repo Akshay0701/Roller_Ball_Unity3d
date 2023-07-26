@@ -1,11 +1,9 @@
-# Roller_Ball
+# Roller_Ball Game
 ![](images/linkedbanner2.png)
-### Game Build in Unity3d
 ## Technology and tools wise this project covers.
-1. C#
-2. Unity3d
-3. blender 3d for modeling & animation
-4. 
+- C#
+- Unity3d
+- blender 3d for modeling & animation
 ## Apk Link:
 [Click here](apkgame/)
 
